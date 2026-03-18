@@ -1,16 +1,212 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Turner Lab",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Research Areas \nOur research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders.\nBasically we study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.\n\n\n\n Publications\nRecent papers can be found on Google Scholar: Jessica Turner’s list\nSocial media: Bluesky for Jessica Turner\nUniversity link: Department of Psychiatry and Behavioral Health Faculty Page\n\n\n\nCurrent Projects\nCerebellar contributions to psychosis\nCerebellum and aging\nAnalyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States ARTEMIS study website\nEnhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: ENIGMA Working Groups\n\n\n\nLab Personnel\nSpring, 2025\n\n\n\nLab personnel, Spring 2025"
+    "text": "Overview of the lab’s research\nOur research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. We study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.\n\n\nCerebellum and Aging\nAging is marked by cognitive and affective changes with an increased risk for neuropsychiatric disorders, underscoring the need to investigate the neural mechanisms that potentially drive these outcomes. While traditionally associated with motor control, the cerebellum has been increasingly recognized for its contributions to cognition, emotion, and vulnerability to age-related disorders. Yet, how the cerebellum changes across lifespan and how these changes relate to cognitive and affective decline remains poorly understood. Our research uses structural and functional MRI to investigate cerebellar morphology, connectivity, and age-related alterations. Through this work, we aim to clarify the cerebellum’s role in healthy and pathological aging states and identify potential targets for intervention. \n\n\nCerebellar Contributions to Psychotic Disorders\nSchizophrenia involves profound symptoms of psychosis, as well as affective and cognitive deficits, that emerge from disruptions in large-scale brain networks. Emerging evidence indicates that the cerebellum plays an important role in cognition and affect, but its directional influence on cortical circuitry is not well understood. Our research investigates the intrinsic activity and effective connectivity of the cerebellum using functional MRI. By mapping cerebellar alterations onto large-scale cortical and striatal networks and modeling directed interactions among these regions, we aim to clarify how cerebellar circuits reorganize in schizophrenia, and how this reorganization contributes to cortical dysfunction in schizophrenia. The goal of this work is to identify potential circuit-level targets for intervention.\n\n\nOther Lab Projects\nThe lab is currently collecting data for the Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States (ARTEMIS) Study as well as being involved in the Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (ENIGMA Working Groups)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "people/zach-brodnick/index.html",
+    "href": "people/zach-brodnick/index.html",
+    "title": "Zach Brodnick",
     "section": "",
-    "text": "About this site"
+    "text": "Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nZach is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Currently, Zach’s research focuses on understanding the role of the cerebellum in aging, with a particular interest in how it relates to cognition and affect using structural and functional MRI. Outside the lab, Zach loves watching movies, trying new restaurants/coffee shops, traveling, and going to live sporting events and concerts."
+  },
+  {
+    "objectID": "people/prateek-palsule/index.html",
+    "href": "people/prateek-palsule/index.html",
+    "title": "Prateek Palsule",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nPrateek is a Project Manager working for ARTEMIS under the umbrella of the Turner Lab. He is also in his last semester of the Master of Clinical Research (MCR) program at The Ohio State University. His research interests include exploring large scale applications of digital phenotyping and psychiatric symptoms in real world settings, along with supporting scalable mental health treatment initiatives. In his free time, he enjoys thinking about space travel, dinosaurs and aviation-along with traveling."
+  },
+  {
+    "objectID": "people/mahmoud-rashidi/index.html",
+    "href": "people/mahmoud-rashidi/index.html",
+    "title": "Mahmoud Rashidi",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nMahmoud is a research scientist in the Department of Psychiatry and Behavioral Health at The Ohio State University. His current research focuses on how the cerebellum’s structure, function, and their interaction contribute to psychotic disorders. In his free time, he enjoys reading, jogging, and cooking."
+  },
+  {
+    "objectID": "people/jessica-turner/index.html",
+    "href": "people/jessica-turner/index.html",
+    "title": "Jessica Turner",
+    "section": "",
+    "text": "Bluesky\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Profile\n  \n  \n    \n     Email\n  \n\n  \n  \nDr. Jessica Turner is a neuroscientist who focuses on how brain imaging and behavioral data can help us better understand mental health. She’s known for bringing together teams across institutions, building tools that make large‑scale collaboration possible, and helping researchers study the brain in more open, privacy‑preserving ways. Her work has shaped how scientists combine imaging, genetics, and clinical information to gain clearer insights into psychiatric conditions. Her lab currently focuses on cerebellar structural and functional contributions to psychosis; dynamic systems applications in neuroimaging and other time series; and in collaboration with Dr. Melanie Bozzay, the application of dynamic systems methods to ecological momentary assessment (EMA) of suicide risk."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Meet the Lab!",
+    "section": "",
+    "text": "Jessica Turner \n            \n               \n            \n              Professor of Psychiatry and Behavioral Health\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#principal-investigator",
+    "href": "people/index.html#principal-investigator",
+    "title": "Meet the Lab!",
+    "section": "",
+    "text": "Jessica Turner \n            \n               \n            \n              Professor of Psychiatry and Behavioral Health\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#postdoctoral-fellows",
+    "href": "people/index.html#postdoctoral-fellows",
+    "title": "Meet the Lab!",
+    "section": "Postdoctoral Fellows",
+    "text": "Postdoctoral Fellows\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Mahmoud Rashidi \n            \n               \n            \n              Postdoctoral Fellow\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Behnoosh Shahsavaripoor \n            \n               \n            \n              Postdoctoral Fellow\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#graduate-students",
+    "href": "people/index.html#graduate-students",
+    "title": "Meet the Lab!",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Zach Brodnick \n            \n               \n            \n              Graduate Student\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Kami Pearson \n            \n               \n            \n              Graduate Student\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#research-scientists",
+    "href": "people/index.html#research-scientists",
+    "title": "Meet the Lab!",
+    "section": "Research Scientists",
+    "text": "Research Scientists\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Jeremiah Byrd \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Brianna Chakravarti \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Naomi Doron \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Grace Hodges \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Prateek Palsule \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Taylor Thompson \n            \n               \n            \n              Research Staff\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#undergraduate-students",
+    "href": "people/index.html#undergraduate-students",
+    "title": "Meet the Lab!",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Cindy An \n            \n               \n            \n              Undergraduate Research Assistant\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Diksha Chapagai \n            \n               \n            \n              Undergraduate Research Assistant\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Arushi Gupta \n            \n               \n            \n              Undergraduate Research Assistant\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Deepthisri Paruchuri \n            \n               \n            \n              Undergraduate Research Assistant\n            \n                \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "Meet the Lab!",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n  \n   \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/diksha-chapagai/index.html",
+    "href": "people/diksha-chapagai/index.html",
+    "title": "Diksha Chapagai",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nDiksha is a senior majoring in Psychology with a concentration in Neuroscience at The Ohio State University and will graduate in Spring 2026. Currently, she is completing her senior thesis examining the relationship between psychosis symptoms, childhood trauma, and cortical thickness in bipolar disorder using structural MRI data. Her research interests include understanding the neurobiological mechanisms underlying severe mental illness and how early life experiences shape the brain structure and clinical outcomes. After graduation, she plans to attend medical school. Outside of the lab, she enjoys dancing, community involvement, and spending time with friends and family."
+  },
+  {
+    "objectID": "people/cindy-an/index.html",
+    "href": "people/cindy-an/index.html",
+    "title": "Cindy An",
+    "section": "",
+    "text": "Bluesky\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nCindy is an ADNiR fellow working for the Turner lab. She is earning a Bachelors in Computational Neuroscience and Psychology with a minor in statistics at The Ohio State University and will graduate in 2027. Her research interests include uncovering the neurological underpinnings of suicidal behavior and psychosis to inform development of individualized treatments. Cindy hopes to pursue a PhD in clinical psychology following these interests. In her free time, she loves making oil paintings of desserts."
+  },
+  {
+    "objectID": "people/behnoosh-shahsavaripoor/index.html",
+    "href": "people/behnoosh-shahsavaripoor/index.html",
+    "title": "Behnoosh Shahsavaripoor",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nBehnoosh is a postdoctoral research fellow at The Ohio State University, with extensive experience in clinical trials and psychiatric research. Her current work focuses on the neurobiological mechanisms of psychosis and emerging psychiatric disorders, with the goal of improving psychopharmacological treatments. She has been involved in randomized controlled trials and data analysis and has authored several peer-reviewed publications. In her free time, Behnoosh enjoys strength training, music, and movies. She has a strong interest in history and different cultures and enjoys exploring them through podcasts, museums, and travel."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Our paper on Cerebellar Morphologic Alterations in Schizophrenia and Bipolar Disorder was submitted to Biological Psychiatry\n\n\nA paper spearheaded by Dr. Mahmoud Rashidi investigating cerebellar morphologic alterations in Schizophrenia and Bipolar Disorder was submitted to Biological Psychiatry Cognitive Neuroscience and Neuroimaging.\n\n\n\n\n\nMar 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n$19.5 million awarded for the ARTEMIS research study\n\n\nDr. Turner secured a multi-million dollar grant from the National Institute of Health (NIH) for the ARTEMIS Study.\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on Cerebellar Effective Connectivity in Schizophrenia was submitted to The Cerebellum\n\n\n2nd year grad student, Kami Pearson, submitted her paper examining cerebellar effective connectivity in schizophrenia to The Cerebellum.\n\n\n\n\n\nAug 10, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Interested in Joining the Lab?",
+    "section": "",
+    "text": "Thank you for your interest- please see the information below for a potential position that applies to you!\n\nGraduate Students:\nDr. Turner is able to take on graduate students through the Neuroscience Graduate Program. Please email Dr. Turner to see if she is taking any students for the current application cycle. Potential applicants should have an interest in neuroimaging related to various psychiatric disorders.\n\n\nUndergraduate Research Assistant:\nVolunteer researchers in the Turner lab can come from any undergraduate major, but a more quantitative background is better for data analysis projects. Research assistants are expected to have some interest in investigating and learning about what they don’t already know, and should be prepared to do regular background reading on their own as part of their responsibilities.  Having had some statistics, math, or computer science classes, or psychology, biology or neuroscience classes, is desirable but not required. A respectable GPA is definitely desirable. \nVolunteer researchers are expected to put in 8-10 hours a week and commit to at least two semesters; responsibilities will vary depending on the research project, but the goal is always to find a fit between the needs of the projects and the career development goals of those working on the project. Lab members are expected to attend the weekly lab meetings (Fridays at 11 am; Teams link available) and to present about their project at the lab meeting at least once a year. \nThe research projects that are available change regularly; there are both data collection and data analysis projects underway. All projects require responsible and reliable research personnel. \nIf you are interested in research opportunities with the Turner lab, please drop us an email with a paragraph explaining your background and interests, and if space in the lab is available, we will set up a meeting to discuss possibilities.  Sitting in on the lab meetings to hear the presentations is also an option.\n\n\nPost-baccalaureate Research Assistant:\nInterested applicants for the ARTEMIS Study should email Dr. Turner to inquire if there are any open positions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Turner Lab",
+    "section": "",
+    "text": "Lab Photo as of Spring 2026\nOur research focuses on understanding how brain structure and function relate to genetic, cognitive, and clinical factors, particularly in psychiatric and neurodegenerative disorders. We aim to integrate large‑scale neuroimaging, behavior, genetics, and advanced computational methods to identify the biological pathways that shape mental health."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Welcome to the Turner Lab",
+    "section": "Research Areas",
+    "text": "Research Areas\nThe brain is an ongoing puzzle! Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more here."
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Welcome to the Turner Lab",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nCerebellar contributions to psychosis\nCerebellum and aging\nAnalyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States ARTEMIS study website\nEnhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: ENIGMA Working Groups"
+  },
+  {
+    "objectID": "index.html#collaborators",
+    "href": "index.html#collaborators",
+    "title": "Welcome to the Turner Lab",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nEPICENTER: Research Labs and Ongoing Projects\nFaculty Link: Department of Psychiatry and Behavioral Health Faculty Page\nC4N: Center for Neuroimaging, Neurophenotyping, Neurocomputation, and Neuromodulation (C4N)"
+  },
+  {
+    "objectID": "people/arushi-gupta/index.html",
+    "href": "people/arushi-gupta/index.html",
+    "title": "Arushi Gupta",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nArushi is an undergraduate student working on the ARTEMIS Project. She is studying Biomedical Science with a minor in Spanish at the Ohio State University and will graduate in 2028. She is interested in getting involved in research around neuroimaging and clinical-based suicide prevention research. Arushi is on the pre-med track and hopes to attend medical school after her undergrad. Outside of the lab, she is interested in dancing and traveling to new places."
+  },
+  {
+    "objectID": "people/brianna-chakravarti/index.html",
+    "href": "people/brianna-chakravarti/index.html",
+    "title": "Brianna Chakravarti",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nBri is a Clinical Research Assistant for ARTEMIS and graduated from The Ohio State University with a Bachelors in Psychology and a minor in Child Abuse and Neglect. Her research interests include developing treatments for trauma-related disorders with a special interest in researching how childhood maltreatment can lead an individual to develop antisocial personality disorder (ASPD). Bri hopes to pursue either a PhD or PsyD in Clinical Psychology in the future to better serve those who have experienced trauma. Outside of work Bri loves to try new coffee shops, attend weekly farmers markets, travel, and spend time with her dog Bear!"
+  },
+  {
+    "objectID": "people/deepthisri-paruchuri/index.html",
+    "href": "people/deepthisri-paruchuri/index.html",
+    "title": "Deepthisri Paruchuri",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nDeepthisri is a first-year student from Delaware, Ohio. At Ohio State, she is majoring in neuroscience and minoring in computer science. She aspires to pursue an MD/PhD and become a physician-scientist dedicated to advancing equitable healthcare through both research and clinical care. Outside of academics, you’ll probably find her dancing or discovering a new favorite food."
+  },
+  {
+    "objectID": "people/grace-hodges/index.html",
+    "href": "people/grace-hodges/index.html",
+    "title": "Grace Hodges",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nGrace is a CRA in the Turner Lab and on the ARTEMIS project. Grace’s research interests include the neuropsychological drivers of deviance and violence, as well as factors of resilience. Grace hopes to pursue a PhD in clinical psychology aligning with these interests. Outside of the lab, Grace enjoys crocheting, line and swing dancing, and spending time with her friends."
+  },
+  {
+    "objectID": "people/jeremiah-byrd/index.html",
+    "href": "people/jeremiah-byrd/index.html",
+    "title": "Jeremiah Byrd",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nJay is a Clinical Research Assistant in the ARTEMIS study at The Ohio State University. Jay recently graduated from The Ohio State University with his bachelor’s in psychology with a focus in health and society in Fall’25. Jay is currently interested in getting his PhD in clinical pediatric psychology. His study interest deals with chronic illness in adolescents and the psychosocial consequences, more specifically how pediatric chronic pain affects the developmental process and doing psychotherapy in said population Outside of the lab, Jay enjoys reading dystopia books, Lego sets, and going out to social events."
+  },
+  {
+    "objectID": "people/kami-pearson/index.html",
+    "href": "people/kami-pearson/index.html",
+    "title": "Kami Pearson",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nKami is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Kami’s research focuses on understanding cerebellar contributions to cortical network organization across the psychosis spectrum. She is particularly interested in how these network alterations contribute to key disease domains, including negative and cognitive symptoms. To address these questions, she uses effective connectivity modeling to characterize circuit-level interactions. Outside of research, Kami enjoys cooking, crocheting, and reading."
+  },
+  {
+    "objectID": "people/naomi-doron/index.html",
+    "href": "people/naomi-doron/index.html",
+    "title": "Naomi Doron",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nNaomi is currently a Clinical Research Assistant on the ARTEMIS study, which explores dynamic suicide risk using ecological momentary assessment methods. She graduated in 2025 from Rice University with a B.A. in Cognitive Sciences and Visual Arts. She is passionate about suicide prevention research with a focus on LGBTQ+ populations, as well as the intersection of reproductive and mental health. Naomi hopes to pursue a PhD in Clinical Psychology to continue her research explorations. Beyond the lab, she is passionate about visual arts and spends her free time between museums, parks, and tea with friends!"
+  },
+  {
+    "objectID": "people/taylor-thompson/index.html",
+    "href": "people/taylor-thompson/index.html",
+    "title": "Taylor Thompson",
+    "section": "",
+    "text": "Email\n  \n\n  \n  \nTaylor is a Clinical Research Assistant for ARTEMIS. She graduated from The Ohio State University with a B.A. in Psychology and a B.A. in English. She is interested in how hormones can affect mental health and also how personality disorders can affect the brain. Taylor hopes to pursue a PhD in Clinical Psychology. Outside of the lab, she likes to write and read, and she is trying to learn to play the bass guitar."
+  },
+  {
+    "objectID": "pubs_talks.html",
+    "href": "pubs_talks.html",
+    "title": "Publications & Talks",
+    "section": "",
+    "text": "Publications & Talks\n\nFoundational papers for the lab\n\nPearson, K., Aberizk, K., An, C., Hodges, G., van Erp, T. G. M., Calhoun, V. D., & Turner, J. A. (2025). Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia. Research Square, rs.3.rs-7792823. https://doi.org/10.21203/rs.3.rs-7792823/v1\nTurner, M. D., Appaji, A., Ar Rakib, N., Golnari, P., Rajasekar, A. K., K V, A. R., Sahoo, S. S., Wang, Y., Wang, L., & Turner, J. A. (2025). Large language models can extract metadata for annotation of human neuroimaging publications. Frontiers in Neuroinformatics, 19. https://doi.org/10.3389/fninf.2025.1609077\nGupta, C. N., Turner, J. A., & Calhoun, V. D. (2018). Source-Based Morphometry: Data-Driven Multivariate Analysis of Structural Brain Imaging Data. In G. Spalletta, F. Piras, & T. Gili (Eds.), Brain Morphometry (pp. 105–120). Springer. https://doi.org/10.1007/978-1-4939-7647-8_7\nGorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P., Flandin, G., Ghosh, S. S., Glatard, T., Halchenko, Y. O., Handwerker, D. A., Hanke, M., Keator, D., Li, X., Michael, Z., Maumet, C., Nichols, B. N., Nichols, T. E., Pellman, J., … Poldrack, R. A. (2016). The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. Scientific Data, 3(1), 160044. https://doi.org/10.1038/sdata.2016.44\nTurner, J. A., & Laird, A. R. (2012). The Cognitive Paradigm Ontology: Design and Application. Neuroinformatics, 10(1), 57–66. https://doi.org/10.1007/s12021-011-9126-x\n\n\n\nTalks given by Dr. Turner!"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/jessica-turner/index.html",
+      "/people/mahmoud-rashidi/index.html",
+      "/people/behnoosh-shahsavaripoor/index.html",
+      "/people/zach-brodnick/index.html",
+      "/people/kami-pearson/index.html",
+      "/people/jeremiah-byrd/index.html",
+      "/people/brianna-chakravarti/index.html",
+      "/people/naomi-doron/index.html",
+      "/people/grace-hodges/index.html",
+      "/people/prateek-palsule/index.html",
+      "/people/taylor-thompson/index.html",
+      "/people/cindy-an/index.html",
+      "/people/diksha-chapagai/index.html",
+      "/people/arushi-gupta/index.html",
+      "/people/deepthisri-paruchuri/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2026-03-05-mahmoudpub/index.html",
+      "/news/2025-10-01-artemisgrant/index.html",
+      "/news/2025-08-10-kamipub/index.html"
+    ]
+  }
+]
