@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-postdoc .list');
+    const listingTargetEl = window.document.querySelector('#listing-ResearchScientist .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-postdoc'] = new List('listing-postdoc', options);
+    window['quarto-listings']['listing-ResearchScientist'] = new List('listing-ResearchScientist', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -224,9 +224,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-altsubtitle','listing-alteducation',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-altsubtitle','listing-alteducation',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-website","listing-filters","listing-format","listing-freeze","listing-editor","listing-language","listing-title","listing-last","listing-first","listing-people_group","listing-subtitle","listing-description","listing-image","listing-page-layout","listing-about","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -509,10 +509,10 @@ window.Quarto = {
    
   <ul>
   <li><a href="#principal-investigator" id="toc-principal-investigator" class="nav-link active" data-scroll-target="#principal-investigator">Principal Investigator</a></li>
-  <li><a href="#postdoctoral-fellows" id="toc-postdoctoral-fellows" class="nav-link" data-scroll-target="#postdoctoral-fellows">Postdoctoral Fellows</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
   <li><a href="#research-scientists" id="toc-research-scientists" class="nav-link" data-scroll-target="#research-scientists">Research Scientists</a></li>
-  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students">Undergraduate Students</a></li>
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#research-assistants" id="toc-research-assistants" class="nav-link" data-scroll-target="#research-assistants">Research Assistants</a></li>
+  <li><a href="#undergraduate-researchers" id="toc-undergraduate-researchers" class="nav-link" data-scroll-target="#undergraduate-researchers">Undergraduate Researchers</a></li>
   <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
   </ul>
 </nav>
@@ -590,9 +590,9 @@ window.Quarto = {
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="postdoctoral-fellows" class="level2 gray-background">
-<h2 class="anchored" data-anchor-id="postdoctoral-fellows">Postdoctoral Fellows</h2>
-<div id="listing-postdoc" class="quarto-listing quarto-listing-container-custom">
+<section id="research-scientists" class="level2 gray-background">
+<h2 class="anchored" data-anchor-id="research-scientists">Research Scientists</h2>
+<div id="listing-ResearchScientist" class="quarto-listing quarto-listing-container-custom">
 
 <div class="quarto-listing quarto-listing-container-grid">
   
@@ -619,41 +619,7 @@ window.Quarto = {
             </div>
                
             <div class="listing-box-subtitle">
-              Postdoctoral Fellow<br>
-            </div>
-                
-                  
-
-            
-            
-          </div>  
-        </div>  
-      </a>
-      
-    </div>
-  
-     
-    
-    <div class="g-col-1 listing-box">
-      
-      
-      
-      <a href="../people/behnoosh-shahsavaripoor/index.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          
-          
-          <p class="card-img-top">
-            <img alt="Behnoosh Shahsavaripoor" src="../people/behnoosh-shahsavaripoor/avatar.jpg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
-          </p>
-          
-          <div class="card-body post-contents">
-            
-            <div class="listing-box-title">
-              Behnoosh Shahsavaripoor<br> 
-            </div>
-               
-            <div class="listing-box-subtitle">
-              Postdoctoral Fellow<br>
+              Research Scientist<br>
             </div>
                 
                   
@@ -758,8 +724,8 @@ window.Quarto = {
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="research-scientists" class="level2 gray-background">
-<h2 class="anchored" data-anchor-id="research-scientists">Research Scientists</h2>
+<section id="research-assistants" class="level2 gray-background">
+<h2 class="anchored" data-anchor-id="research-assistants">Research Assistants</h2>
 <div id="listing-researcher" class="quarto-listing quarto-listing-container-custom">
 
 <div class="quarto-listing quarto-listing-container-grid">
@@ -908,6 +874,40 @@ window.Quarto = {
       
       
       
+      <a href="../people/abdulla-mutraji/abdulla-mutraji.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          
+          
+          <p class="card-img-top">
+            <img alt="Abdulla Mutraji" src="../people/abdulla-mutraji/avatar.jpg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+          </p>
+          
+          <div class="card-body post-contents">
+            
+            <div class="listing-box-title">
+              Abdulla Mutraji<br> 
+            </div>
+               
+            <div class="listing-box-subtitle">
+              Research Staff<br>
+            </div>
+                
+                  
+
+            
+            
+          </div>  
+        </div>  
+      </a>
+      
+    </div>
+  
+     
+    
+    <div class="g-col-1 listing-box">
+      
+      
+      
       <a href="../people/prateek-palsule/index.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           
@@ -978,8 +978,8 @@ window.Quarto = {
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="undergraduate-students" class="level2">
-<h2 class="anchored" data-anchor-id="undergraduate-students">Undergraduate Students</h2>
+<section id="undergraduate-researchers" class="level2">
+<h2 class="anchored" data-anchor-id="undergraduate-researchers">Undergraduate Researchers</h2>
 <div id="listing-undergrad" class="quarto-listing quarto-listing-container-custom">
 
 <div class="quarto-listing quarto-listing-container-grid">
@@ -1138,6 +1138,42 @@ window.Quarto = {
   
   <div class="list grid quarto-listing-cols-4"> 
 
+     
+    
+    <div class="g-col-1 listing-box">
+      
+      
+      
+      <a href="../people/behnoosh-shahsavaripoor/index.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          
+          
+          <p class="card-img-top">
+            <img alt="Behnoosh Shahsavaripoor" src="../people/behnoosh-shahsavaripoor/avatar.jpg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+          </p>
+          
+          <div class="card-body post-contents">
+            
+            <div class="listing-box-title">
+              Behnoosh Shahsavaripoor<br> 
+            </div>
+               
+            <div class="listing-box-subtitle">
+
+              
+                  Alumni<br>
+                  
+
+            </div>
+                
+            
+            
+          </div>  
+        </div>  
+      </a>
+      
+    </div>
+  
     
   
 </div>
