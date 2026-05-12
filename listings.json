@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2026-05-02-sobp/index.html",
+      "/news/2026-04-10-cindygoldwater/index.html",
+      "/news/2026-03-05-mahmoudpub/index.html",
+      "/news/2025-10-01-artemisgrant/index.html",
+      "/news/2025-08-10-kamipub/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/jessica-turner/index.html",
@@ -21,12 +31,47 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/presentations/index.html",
     "items": [
-      "/news/2026-04-10-cindygoldwater/index.html",
-      "/news/2026-03-05-mahmoudpub/index.html",
-      "/news/2025-10-01-artemisgrant/index.html",
-      "/news/2025-08-10-kamipub/index.html"
+      "/presentations/2015-10-05-talk-jessenigmasz/index.html",
+      "/presentations/2020-11-13-talk-jesscoinstac/index.html",
+      "/presentations/2021-03-01-talk-jessacademicpath/index.html",
+      "/presentations/2022-10-04-talk-jessenigma/index.html",
+      "/presentations/2025-06-01-talk-jessenigmaohbm/index.html",
+      "/presentations/2026-05-01-pres-sobpcindy/index.html",
+      "/presentations/2026-05-01-pres-sobpgrace/index.html",
+      "/presentations/2026-05-01-pres-sobpjess/index.html",
+      "/presentations/2026-05-01-pres-sobpkami/index.html",
+      "/presentations/2026-05-01-pres-sobpmahmoud/index.html",
+      "/presentations/2026-05-01-pres-sobpzach/index.html",
+      "/presentations/2025-01-01-pub-consfrontal/index.html",
+      "/presentations/2025-01-02-pub-centralsensitizaationalcohol/index.html",
+      "/presentations/2025-01-07-pub-comethylationnetworks/index.html",
+      "/presentations/2025-02-01-pub-timevaryingspatial/index.html",
+      "/presentations/2025-04-01-pub-enigmameditation/index.html",
+      "/presentations/2025-04-01-pub-worldwideengimasz/index.html",
+      "/presentations/2025-04-02-pub-funcvsstrucdeficitsmdd/index.html",
+      "/presentations/2025-04-30-pub-funcnetworkmachinelearning/index.html",
+      "/presentations/2025-05-08-pub-thalamocorticocovariation/index.html",
+      "/presentations/2025-08-01-pub-funcadaptivestructuralbrain/index.html",
+      "/presentations/2025-08-20-pub-llmmetadata/index.html",
+      "/presentations/2025-08-23-pub-predregionalcerebralblood/index.html",
+      "/presentations/2025-10-01-pub-cranialect/index.html",
+      "/presentations/2025-10-30-pub-whitematterintrisicconn/index.html",
+      "/presentations/2025-11-19-pub-soarprotocol/index.html",
+      "/presentations/2025-11-19-pub-spatiotemporalcomplexpsychosis/index.html",
+      "/presentations/2025-11-21-pub-whitematermaturation/index.html",
+      "/presentations/2025-12-09-pub-psychedelicsnonaffpsychosis/index.html",
+      "/presentations/2025-12-27-pub-sharedgeneticarch/index.html",
+      "/presentations/2026-02-14-structuremiessc/index.html",
+      "/presentations/2026-03-01-pub-socialgazeautism/index.html",
+      "/presentations/2026-03-06-pub-enigmaszwhitemattermicro/index.html",
+      "/presentations/2026-03-07-pub-ofcthickness/index.html",
+      "/presentations/2026-03-17-pub-psychedelicsmimicpsychosis/index.html",
+      "/presentations/2026-03-23-pub-cerebellareffectivecon/index.html",
+      "/presentations/2026-03-28-structreatmentressz/index.html",
+      "/presentations/2026-04-01-strucbrainszenigma/index.html",
+      "/presentations/2026-04-18-corticalsigschizotypyenigma/index.html"
     ]
   }
 ]
