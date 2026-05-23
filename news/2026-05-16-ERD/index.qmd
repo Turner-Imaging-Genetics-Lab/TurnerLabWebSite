@@ -1,0 +1,6 @@
+---
+title: "Turner Lab presents at the EPICENTER Research Day"
+date: '2026-05-15'
+image: PosterPic2026.jpg
+description: The EPICENTER Research Day was held on the afternoon of May 15, with about 50 people attending. Our poster presenters were Dr. Mahmoud Rashidi, Kami Pearson, Zach Brodnick, Cindy An, Diksha Chapagai, and Grace Hodges. Congrats to all!
+---
