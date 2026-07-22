@@ -1,0 +1,5 @@
+---
+title: "Mahmoud publishes his paper, 'Cerebellar structure is abnormal in schizophrenia and deviates from bipolar disorder,' in the journal NeuroImage: Clinical"
+date: '2026-07-02'
+description: "A new paper entitled 'Cerebellar structure is abnormal in schizophrenia and deviates from bipolar disorder' is recently published: https://doi.org/10.1016/j.nicl.2026.104017"
+---
