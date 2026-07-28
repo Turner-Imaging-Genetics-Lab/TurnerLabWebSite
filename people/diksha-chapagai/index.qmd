@@ -2,8 +2,8 @@
 title: Diksha Chapagai
 last: Chapagai
 first: Diksha
-people_group: undergrad
-subtitle: Undergraduate Research Assistant
+people_group: researcher
+subtitle: Research Staff
 description: ""
 image: avatar.jpeg
 page-layout: full
