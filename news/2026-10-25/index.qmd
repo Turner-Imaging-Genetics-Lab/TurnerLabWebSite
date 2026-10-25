@@ -1,0 +1,6 @@
+---
+title: "The Turner lab presented at the annual meeting of the Society for Research in Psychopathology, Columbus OH, Oct 8-11"
+date: '2026-10-12'
+image: TurnerLab2-SRP2026.png
+description: "Congratulations to all the presenters: Kami Pearson, Zach Brodnick for Grace Hodges, Diksha Chapagai, Kay Goddard, & Abdulla Mutraji!"
+---

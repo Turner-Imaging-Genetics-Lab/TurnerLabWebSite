@@ -40,7 +40,6 @@ image-lazy-loading: true
 
 Presentations, publications, and talks from the lab.
 
-
 ## **Foundational papers for the lab**
 
 1.  Pearson, K., Aberizk, K., An, C., Hodges, G., van Erp, T. G. M., Calhoun, V. D., & Turner, J. A. (2025). Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia. *Research Square*, rs.3.rs-7792823. <https://doi.org/10.21203/rs.3.rs-7792823/v1>
@@ -53,34 +52,21 @@ Presentations, publications, and talks from the lab.
 
 5.  Turner, J. A., & Laird, A. R. (2012). The Cognitive Paradigm Ontology: Design and Application. *Neuroinformatics*, *10*(1), 57–66. <https://doi.org/10.1007/s12021-011-9126-x>
 
-
-
 :::: gray-background
-
-
 ## Talks given by Dr. Turner
 
 ::: {#talks}
 :::
-
-
 ::::
-
 
 ## Presentations
 
 ::: {#presentations}
 :::
 
-
 :::: gray-background
-
-
 ## Publications
 
 ::: {#publications}
 :::
-
-
 ::::
-

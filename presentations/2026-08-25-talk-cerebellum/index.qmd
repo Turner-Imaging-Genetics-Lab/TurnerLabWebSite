@@ -1,0 +1,10 @@
+---
+title: "Cerebellar implications in dementia"
+pres_group: talks
+date: '2026-08-25'
+description: Jessica Turner
+image: image.png
+page-layout: full
+---
+
+{{< video https://youtu.be/JygnCqcuFp4 title="Cerebellar implications in dementia" >}}
