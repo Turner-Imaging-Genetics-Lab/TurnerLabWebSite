@@ -1,19 +1,5 @@
 [
   {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2026-07-02-mahmoudpub/index.html",
-      "/news/2026-06-24-OHBM/index.html",
-      "/news/2026-05-16-ERD/index.html",
-      "/news/2026-05-02-sobp/index.html",
-      "/news/2026-04-10-cindygoldwater/index.html",
-      "/news/2026-03-23-kamipublished/index.html",
-      "/news/2026-03-05-mahmoudpub/index.html",
-      "/news/2025-10-01-artemisgrant/index.html",
-      "/news/2025-08-10-kamipub/index.html"
-    ]
-  },
-  {
     "listing": "/people/index.html",
     "items": [
       "/people/jessica-turner/index.html",
@@ -35,8 +21,24 @@
     ]
   },
   {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2026-10-25/index.html",
+      "/news/2026-07-02-mahmoudpub/index.html",
+      "/news/2026-06-24-OHBM/index.html",
+      "/news/2026-05-16-ERD/index.html",
+      "/news/2026-05-02-sobp/index.html",
+      "/news/2026-04-10-cindygoldwater/index.html",
+      "/news/2026-03-23-kamipublished/index.html",
+      "/news/2026-03-05-mahmoudpub/index.html",
+      "/news/2025-10-01-artemisgrant/index.html",
+      "/news/2025-08-10-kamipub/index.html"
+    ]
+  },
+  {
     "listing": "/presentations/index.html",
     "items": [
+      "/presentations/2026-08-25-talk-cerebellum/index.html",
       "/presentations/2025-06-01-talk-jessenigmaohbm/index.html",
       "/presentations/2022-10-04-talk-jessenigma/index.html",
       "/presentations/2021-03-01-talk-jessacademicpath/index.html",
